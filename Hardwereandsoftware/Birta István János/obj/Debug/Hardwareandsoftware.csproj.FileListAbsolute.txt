@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Hardwareandsoftware\Hardwareandsoftware\obj\Debug\Hardwareandsoftware.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Hardwareandsoftware\Hardwareandsoftware\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\Hardwareandsoftware\Hardwareandsoftware\obj\Debug\App.g.cs
+C:\Users\User\source\repos\Hardwareandsoftware\Hardwareandsoftware\obj\Debug\Hardwareandsoftware_MarkupCompile.cache
+C:\Users\User\source\repos\Hardwareandsoftware\Hardwareandsoftware\obj\Debug\Hardwareandsoftware_MarkupCompile.lref
+C:\Users\User\Desktop\Hardwereandsoftware\Birta István János\obj\Debug\Hardwareandsoftware.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Hardwereandsoftware\Birta István János\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Hardwereandsoftware\Birta István János\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Hardwereandsoftware\Birta István János\obj\Debug\Hardwareandsoftware_MarkupCompile.cache
+C:\Users\User\Desktop\Hardwereandsoftware\Birta István János\obj\Debug\Hardwareandsoftware_MarkupCompile.lref
